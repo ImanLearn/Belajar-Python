@@ -43,3 +43,6 @@ print("5. Range Minus [-4:-1]     :", buah[-4:-1]) # Hasil: ['orange', 'kiwi', '
 print("6. Cek Keanggotaan:")
 if "apple" in buah:
     print("   Yes, 'apple' beneran ada di dalem list buah!")
+
+# ------------------
+#    --- GOOD LUCK HAVE FUN ---
