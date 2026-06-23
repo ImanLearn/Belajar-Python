@@ -1,2 +1,2 @@
 # Belajar-Python
-Jurnal belajar Python fundamental untuk cybersecurity dan web app dev.
+Belajar Python fundamental untuk cybersecurity dan web dev
