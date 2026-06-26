@@ -70,7 +70,7 @@ tukar_hello = ['hello' for x in fruits]
 print("Tukar Jadi Hello  :", tukar_hello)
 
 
-# 🔥 7. LEVEL TRICKY: PAKE IF-ELSE DI DEPAN (Bukan Buat Filter, Tapi Buat Tukar Isi)
+# 7. LEVEL TRICKY: PAKE IF-ELSE DI DEPAN (Bukan Buat Filter, Tapi Buat Tukar Isi)
 # Aturan: Kalau mau pake ELSE, posisi IF-ELSE-nya harus dipindah ke DEPAN 'for'.
 # Arti kodenya: "Ambil x jika x bukan banana, TAPI KALO banana ganti jadi orange"
 tukar_pisang = [x if x != "banana" else "orange" for x in fruits]
